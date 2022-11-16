@@ -1,7 +1,7 @@
 # mask.h
 this is a library for mask created apart from college work (ort singalovski)
 
-#Macros Of the Libary
+#Macros Of the Libary#
 
 #define IS_ALL_BITS_OFF(mask) - this macro check if all bits in mask are off
 #define IS_ALL_BITS_ON(mask) - this macro check if all bits in mask are on
