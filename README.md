@@ -6,8 +6,10 @@ this is a library for mask created apart from college work (ort singalovski)
 
 ### #define IS_ALL_BITS_OFF(mask)
 this macro check if all bits in mask are off
-### #define IS_ALL_BITS_ON(mask) - this macro check if all bits in mask are on
-### #define TURN_ON_BIT(size) - this macro create number that only one bit is on
+### #define IS_ALL_BITS_ON(mask)
+this macro check if all bits in mask are on
+### #define TURN_ON_BIT(size)
+this macro create number that only one bit is on
 
 
 ## Functions of the libary
