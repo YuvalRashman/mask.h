@@ -495,7 +495,7 @@ void copyNibbleByTimes(typ *newNum, unsigned short usNibble, unsigned short usTi
 //
 // General : this function will convert a decimal number to hex number
 // this means that each decimal digit will be relocated into a nibble
-
+//
 // for example:
 // nNum = 1234 (0100 1101 0010) or 0x4D2
 // will turn to: 4660 (0001 0010 0011 0100 ) or 0x1234
@@ -523,4 +523,3 @@ unsigned int decimalAsHex(int nNum) {
     }
     return numBin;
 }
-
